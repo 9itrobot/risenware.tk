@@ -1,17 +1,13 @@
-h1{
+h2{
   color:#ff0000;
-  text-align: center;
 }
 
 p{
   color:#6a5acd;
-  text-align: center;
-}
-div{
-  text-align: center;
 }
 
 
 .body{
   background-color: #bc5a8e;
+  text-align: center;
 }
