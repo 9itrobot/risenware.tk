@@ -1,4 +1,7 @@
 h1 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
-background-image: url("4332827.jpg");
+
+.body{
+  background-image: url("4332827.jpg");
+}
